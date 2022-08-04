@@ -1,23 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
-
+import { AiOutlineShoppingCart, AiOutlineSearch } from "react-icons/ai";
+import { FaUserAlt, FaTruck, FaArrowLeft } from "react-icons/fa";
+import Navbar from './components/Navbar';
+import Form from './components/Form';
+import Payment from './components/Payment';
+import Cart from './components/Cart';
+import BottomBar from './components/BottomBar';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Navbar />
+      <div className='all_contents_div'>
+        <Form />
+        <Payment />
+        <Cart />
+      </div>
+      <BottomBar />
     </div>
   );
 }

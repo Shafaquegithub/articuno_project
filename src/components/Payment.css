@@ -1,0 +1,36 @@
+.payment_sec{
+    width: 350px;
+    /* border: 1px solid red; */
+}
+.payment_div, .delivery_div{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+.payment_img_div{
+    width: 100px;
+    border: 1px solid rgb(230, 227, 227);
+    border-radius: 25px;
+    display: grid;
+    place-items: center;
+    margin-bottom: 15px;
+    height: 45px;
+}
+.payment_img_div img{
+    width:50px ;
+    height: 30px;
+}
+.delivery_img_div{
+    width: 160px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    border: 1px solid rgb(230, 227, 227);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.delivery_img_div img{
+    width: 60px;
+    height: 23px;
+}

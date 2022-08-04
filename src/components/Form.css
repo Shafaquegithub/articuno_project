@@ -1,0 +1,41 @@
+.btn_div button {
+    padding: 13px 27px;
+    border-radius: 20px;
+    margin: 0px 10px 10px 0;
+    box-sizing: border-box;
+}
+
+.btn_div button:nth-child(1) {
+    background-color: #7AD0A7;
+    color: white;
+    border: none;
+}
+
+.btn_div button:nth-child(2) {
+    border: 1px solid gray;
+    padding: 11px 25px;
+    background: transparent;
+}
+.input_div{
+    /* width: 90%; */
+    width: 560px;
+    display: block;
+    /* border: 1px solid red; */
+}
+.input_div input{
+    padding: 10px 20px;
+    color: gray;
+    width: 220px;
+    margin: 10px 10px 15px 0;
+    height: 25px;
+    display: inline-block;
+    border: 1px solid rgb(187, 183, 183);
+    border-radius: 25px;
+}
+.input_div select{
+    width: 260px;
+    height: 45px;
+    padding: 10px 20px;
+    border-radius: 25px;
+    border: 1px solid rgb(187, 183, 183);
+}

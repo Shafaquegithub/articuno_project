@@ -1,0 +1,31 @@
+.bottombar_sec{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    padding: 10px 20px;
+}
+.back_div{
+    display: flex;
+    align-items: center;
+}
+.back_div p:nth-child(2){
+    padding: 0 0 6px 20px;
+    font-weight: 500
+}
+.continue_div button{
+    width: 200px;
+    padding: 10px;
+    border-radius: 25px;
+    margin-right: 10px;
+}
+.continue_div button:nth-child(1){
+    border: 1px solid black;
+    background-color: transparent;
+}
+.continue_div button:nth-child(2){
+    background-color:#7AD0A7 ;
+    color: white;
+    border: none;
+    padding: 11px 10px;
+}
