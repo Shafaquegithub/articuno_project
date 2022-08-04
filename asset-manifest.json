@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/articuno_project/static/css/main.0da096d6.css",
+    "main.js": "/articuno_project/static/js/main.d4636da2.js",
+    "static/media/black-tshirt.jpg": "/articuno_project/static/media/black-tshirt.eeacd2cbb729d5162624.jpg",
+    "static/media/dhl.jpg": "/articuno_project/static/media/dhl.1654a1d2ef2838bee6fb.jpg",
+    "static/media/paypal.jpg": "/articuno_project/static/media/paypal.b7d6c0ff4ec76d2ea7ae.jpg",
+    "static/media/fadex.jpg": "/articuno_project/static/media/fadex.1316be73fba00e172862.jpg",
+    "static/media/ideal.jpg": "/articuno_project/static/media/ideal.97be4eca07ff61d7a3fa.jpg",
+    "static/media/dpd.jpg": "/articuno_project/static/media/dpd.436a8d70e5ea682ea837.jpg",
+    "static/media/InPost_Logo.jpg": "/articuno_project/static/media/InPost_Logo.ee1fb8aca07a5c7b8efd.jpg",
+    "static/media/white-tshirt.jpg": "/articuno_project/static/media/white-tshirt.3ea8ba02d9e8ca7e3cae.jpg",
+    "static/media/discover.jpg": "/articuno_project/static/media/discover.42888854c83a9d658649.jpg",
+    "static/media/master-card.jpg": "/articuno_project/static/media/master-card.ac81e4d04b51f5f5d2ba.jpg",
+    "static/media/visa.jpg": "/articuno_project/static/media/visa.5d098f1267d6ee313d5d.jpg",
+    "static/media/maestro.png": "/articuno_project/static/media/maestro.bf8c86cde6142f91ce23.png",
+    "index.html": "/articuno_project/index.html",
+    "main.0da096d6.css.map": "/articuno_project/static/css/main.0da096d6.css.map",
+    "main.d4636da2.js.map": "/articuno_project/static/js/main.d4636da2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0da096d6.css",
+    "static/js/main.d4636da2.js"
+  ]
+}
